@@ -1,0 +1,9 @@
+<template>
+    <lightning-card title="Select Seats">
+        <div class="seat-grid">
+            <template for:each={seats} for:item="seat">
+                <lightning-button key={seat.id} label={seat.label} onclick={selectSeat}></lightning-button>
+            </template>
+        </div>
+    </lightning-card>
+</template>
