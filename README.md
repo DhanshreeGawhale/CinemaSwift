@@ -20,5 +20,5 @@ Tools	VS Code with Salesforce Extensions, Salesforce CLI
 Author
 Dhanshree Gawhale
 
-[LinkedIn](https://www.linkedin.com/in/dhanshree-gawhale)  
-[Trailhead](https://www.salesforce.com/trailblazer/zbpuwc7y8f6texuv7c)
+[My LinkedIn](https://www.linkedin.com/in/dhanshree-gawhale)  
+[My Trailhead](https://www.salesforce.com/trailblazer/zbpuwc7y8f6texuv7c)
