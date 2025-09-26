@@ -8,7 +8,6 @@ It allows users to browse shows, select seats, and make bookings while enabling 
 🪑 Interactive Seat Selection: Customers can visually select available seats.
 🧾 Booking & Payments: Simple booking flow with confirmation and payment status tracking.
 📢 Customer Engagement: Email/SMS notifications for bookings and updates.
-📊 Reports & Dashboards: Track sales, bookings, and popular movies.
 
 🏗️ Tech Stack
 Backend	Salesforce (Apex, Triggers, Flows)
