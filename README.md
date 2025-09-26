@@ -15,6 +15,7 @@ Frontend	Lightning Web Components (LWC)
 Database	Salesforce Standard & Custom Objects
 Version Control	Git & GitHub
 Tools	VS Code with Salesforce Extensions, Salesforce CLI
+[Demo Walktrough](https://drive.google.com/file/d/1IZ0nyUi3GUyhdQ3y1aTOOVbUM5LWV8fq/view?usp=sharing)
 
 Author
 Dhanshree Gawhale
