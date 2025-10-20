@@ -17,7 +17,7 @@ Version Control	Git & GitHub
 Tools	VS Code with Salesforce Extensions, Salesforce CLI
 
 
-[Demo Walktrough of CinemaSwift](https://drive.google.com/file/d/1_n3u6wr7_C-3EW4ti7xVd0Gs-fWVf-Iy/view?usp=sharing)
+[Demo Walktrough of CinemaSwift](https://drive.google.com/file/d/1RbzLwSidGOrEzsrD6kqpr58wmaOqEt0r/view?usp=drivesdk)
 
 Author
 Dhanshree Gawhale
